@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Gasabo",
+        "province": "Kigali City",
+        "location": {
+            "lat": -1.94,
+            "lon": 30.06
+        },
+        "stats": {
+            "population": 600000,
+            "health_score": 72
+        }
+    },
+    {
+        "name": "Kicukiro",
+        "province": "Kigali City",
+        "location": {
+            "lat": -1.97,
+            "lon": 30.1
+        },
+        "stats": {
+            "population": 400000,
+            "health_score": 68
+        }
+    },
+    {
+        "name": "Musanze",
+        "province": "Northern",
+        "location": {
+            "lat": -1.5,
+            "lon": 29.63
+        },
+        "stats": {
+            "population": 420000,
+            "health_score": 75
+        }
+    }
+]
