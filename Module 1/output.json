@@ -1,0 +1,23 @@
+[
+  {
+    "district_name":"gasabo",
+    "province":"Kigali City",
+    "pop":600000,
+    "pop_millions":0.6,
+    "size_category":"Large"
+  },
+  {
+    "district_name":"kicukiro",
+    "province":"Kigali City",
+    "pop":400000,
+    "pop_millions":0.4,
+    "size_category":"Medium"
+  },
+  {
+    "district_name":"musanze",
+    "province":"Northern",
+    "pop":420000,
+    "pop_millions":0.42,
+    "size_category":"Medium"
+  }
+]
