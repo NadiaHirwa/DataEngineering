@@ -1,0 +1,15 @@
+# Jupyter autosave artifacts
+**/.ipynb_checkpoints/
+
+# Generated analysis outputs
+Module 1/output.csv
+Module 1/output.json
+Module 1/output.xlsx
+Module 1/districts.csv
+Module 1/districts_cleaned.csv
+Module 1/districts_cleaned.xlsx
+
+# Large intermediate datasets
+Module 1/large.csv
+Module 1/large.parquet
+Module 1/districts.parquet
